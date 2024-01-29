@@ -2,7 +2,7 @@ body{
 	background-color: lightcoral;
 }
 
- h1{
+ heading{
 	test-align: center;
 	color:black;
 	font-family: "Courier New"
