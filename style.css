@@ -1,0 +1,20 @@
+body{
+	background-color: lightcoral;
+}
+
+ h1{
+	test-align: center;
+	color:black;
+}
+
+ h2{
+	text-align: center;
+	color: black;
+}
+
+ #ul {
+	background-color:#C87575;
+	border:1px solid;
+	border-color:#7591C8;
+}
+
