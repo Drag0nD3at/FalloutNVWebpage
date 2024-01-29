@@ -1,0 +1,32 @@
+body{
+	background-color: DarkOrange;
+}
+
+ h1{
+	test-align: center;
+	color:black;
+}
+
+ h5{
+	text-align: center;
+	color: black;
+}
+
+ #one {
+	background-color: #3181E1;
+	border:1px solid;
+	border-bottom-color:#E131B6;
+	border-top-color:#E61E54;
+	border-left-color:#3ADC1D;
+	border-right-color:#CD0D0D;
+}
+
+ #two {
+	background-color:#C87575;
+	border:1px solid;
+	border-color:#7591C8;
+}
+
+.button {
+	background-color: #264789;
+}
