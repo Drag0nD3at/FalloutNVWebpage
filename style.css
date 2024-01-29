@@ -4,14 +4,14 @@ body{
 
  h1{
 	test-align: center;
-	color:black;
-	font-family: "Courier New"
+	color: black;
+	font-family: "Courier New";
 }
 
  h2{
 	text-align: center;
 	color: black;
-	font-family: "Monaco"
+	font-family: "Monaco";
 }
 
  #ul {
