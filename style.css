@@ -25,3 +25,21 @@ h1, h2 {
   	padding: 5 px;
 }
 
+div.ex1 {
+	
+	width: 300px;
+
+	margin: auto;
+
+	border: 2px solid #00FFFF;
+
+}
+div.ex2 {
+
+	max-width: 300px;
+
+	margin: auto;
+
+	border: 2px solid #00FFFF;
+
+}
