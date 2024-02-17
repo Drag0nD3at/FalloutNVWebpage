@@ -1,1 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
 
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20 px 0;
+}
+
+main {
+    margin: 20 px;
+    padding: 20 px;
+    background-color: white;
+    border-radius: 8 px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 10 px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100 %;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    column-count: 4;
+    column-gap: 40 px;
+    column-rule-style: solid;
+}
