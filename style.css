@@ -14,9 +14,9 @@ body{
 	font-family: "Monaco";
 }
 
- img{
-	background-color: grey;
-	border: 5 px solid;
-	border-color: grey ;
+ img {
+	width: 25%;
+  	border: 5px solid gray;
+  	padding: 5px;
 }
 
